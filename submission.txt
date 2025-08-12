@@ -1,0 +1,4 @@
+Name: Roshini Ragupathy
+Roll No: 3122225001113
+Connector: PhishTank (CSV) - https://data.phishtank.com/data/online-valid.csv
+Files: etl_connector.py, raw_data/verified_online.csv, output/phishtank_clean.csv
