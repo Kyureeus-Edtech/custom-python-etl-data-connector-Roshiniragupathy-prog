@@ -1,0 +1,13 @@
+# Local environment and Python artifacts
+.env
+__pycache__/
+*.pyc
+venv/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
